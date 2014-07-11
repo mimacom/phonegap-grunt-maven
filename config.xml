@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mimacom.petshop" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>phonegap-grunt-maven</name>
+    <description>
+        An example PhoneGap application that covers the CI integration with Grunt and Maven
+    </description>
+    <author email="mario.ulmer@mimacom.com" href="http://www.mimacom.de">
+        Mario Ulmer (mimacom Deutschland GmbH)
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

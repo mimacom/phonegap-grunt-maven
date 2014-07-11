@@ -1,0 +1,13 @@
+{
+  "name": "phonegap-grunt-maven",
+  "version": "1.0.0",
+  "description": "An example PhoneGap application that covers the CI integration with Grunt and Maven",
+  "main": "index.html",
+  "author": "mario.ulmer@mimacom.com",
+  "license": "",
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-compress": "0.9.1",
+    "grunt-phonegap-build": "0.0.8"
+  }
+}
